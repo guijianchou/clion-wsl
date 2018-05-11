@@ -33,7 +33,7 @@ fi
 EOF
   
 # 3. install basic dependencies
-sudo apt install -y cmake gcc clang gdb valgrind build-essential
+sudo apt install -y python-dev python-pip build-essential
  
 # summary: SSHD config info
 echo 
