@@ -5,6 +5,6 @@ test pass those wsl os:
 ubuntu 16.04
 ubuntu 18.04
 
-~~sftp://user@localhost:2222 password~~
+sftp://user@localhost:2222 password
 
-_wget https://raw.githubusercontent.com/guijianchou/pycharm-wsl/master/ubuntu_setup_env.sh && bash ubuntu_setup_env.sh_
+wget https://raw.githubusercontent.com/guijianchou/pycharm-wsl/master/ubuntu_setup_env.sh && bash ubuntu_setup_env.sh
