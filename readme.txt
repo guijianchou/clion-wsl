@@ -1,7 +1,7 @@
 Copyright belongs to clion-wsl and jetbrains
 I just modify some codes so that u and me can easily enjoy the WSL benefit in pycharm
 
-Python-dev 2.7 test pass those WSL os in win10 1709:
+Python-dev 2.7 test pass those WSL os in win10 1709 && 1803:
   ubuntu 16.04
   ubuntu 18.04
 
